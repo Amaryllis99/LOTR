@@ -4,7 +4,8 @@
 
 ![image](image/Hideaway.jpg)
 
-[color=B21D1D]Bienvenue à vous[/color]
+<color='red'> Bienvenue à tous ! </color>
+[color=#26B260]texte coloré en vert[/color]
 
 Ce site est désié à la trilogie *Le Seigneur des Anneaux*, oeuvre de Tolkien blabla.
 
