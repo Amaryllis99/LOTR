@@ -1,10 +1,10 @@
 # LOTR
 
-## A fictional fatasy
+## A fictional fantasy
 
 ![image](image/Hideaway.jpg)
 
-Ce site est désié à la trilogie du seigneur des anneaux, oeuvre de tolkien blabla.
+Ce site est désié à la trilogie *Le Seigneur des Anneaux*, oeuvre de Tolkien blabla.
 
 Vous touverez des informations diverses sur les trois livres: 
 [La communauté de l'anneau](Exposants.md),
