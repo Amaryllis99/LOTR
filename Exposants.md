@@ -1,6 +1,8 @@
 # <center>La communauté de l'anneau</center>
 
-![La communauté de l'anneau](image/LeSeigneurdesAnneaux1.jpg)
-Une fantasy de qualité vraiment
+<center><font color='blue'>Serez-vous prêts à franchir le pas ?</font></center>
 
-![hamilton](image/Hamilton.png)
+![La communauté de l'anneau](image/LeSeigneurdesAnneaux.jpg)
+
+
+
