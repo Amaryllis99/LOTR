@@ -4,4 +4,4 @@
 
 ![image](image/Hideaway.jpg)
 
-[lien vers exposants](Exposants)
+[lien vers exposants](Exposants.md)
