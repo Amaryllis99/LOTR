@@ -4,7 +4,7 @@
 
 ![image](image/Hideaway.jpg)
 
-Ce site est désié à la trilogie *Le Seigneur des Anneaux*, oeuvre de Tolkien blabla.
+Ce site est désié à la trilogie *Le Seigneur des Anneaux*, oeuvre de <font color='red'>Tolkien</font> blabla.
 
 Vous touverez des informations diverses sur les trois livres: 
 [La communauté de l'anneau](Exposants.md),
