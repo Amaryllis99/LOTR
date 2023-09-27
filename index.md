@@ -18,4 +18,4 @@ Vous touverez des informations diverses sur les trois livres:
 et le troisième qui n'a pas de lien, juste un nom: 
 [Le Retour du Roi]
 
-En prime, je vous propose un lien afin d'accéder à la mise en forme du code [Markdown](https://help.whaller.com/fr/article/syntaxe-markdown-ymka8w/) [Markdown](https://help.whaller.com/)
+En prime, je vous propose un lien afin d'accéder à la mise en forme du code [Markdown](https://help.whaller.com/fr/article/syntaxe-markdown-ymka8w/)
