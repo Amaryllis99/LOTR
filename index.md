@@ -5,12 +5,12 @@ fonctionne
 
 ![image](image/Hideaway.jpg)
 
+<font color='#26B260'>L'univers de Tolkien à votre porte</font>
+fonctionnent
+
 <font color='#FF3300'>Bienvenue à tous !</font>
 
-<font color=#26B260>texte coloré en vert</font>
-fonctionnent pas
-
-Ce site est désié à la trilogie *Le Seigneur des Anneaux*, oeuvre de Tolkien blabla.
+Ce site est dédié à la trilogie *Le Seigneur des Anneaux*, oeuvre de Tolkien blabla.
 
 Vous touverez des informations diverses sur les trois livres: 
 [La communauté de l'anneau](Exposants.md),
