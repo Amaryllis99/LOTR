@@ -20,8 +20,4 @@ et le troisième qui n'a pas de lien, juste un nom:
 
 En prime, je vous propose un lien afin d'accéder à la mise en forme du code [Markdown](https://help.whaller.com/fr/article/syntaxe-markdown-ymka8w/)
 
-|**Horaires**|**Vendredi**|**Samedi**|**Dimanche**|
-|:-:|:----:|:----:|:----:|
-|10h|Leigh Bardugo|Sara J. Maas|Suzanne Collins|
-|12h|-|-|-|
-
+[<font color='red'>Home</font>](index.md)|<font color='red'>À propos</font>|<font color='red'>Contacts</font>|<font color='red'>Plan</font>
